@@ -13,4 +13,4 @@ Each one has a terminal demonstration: `rbt-demo`, `avlt-demo`, `bt-demo`, `th-d
 Run with Chez Scheme 9.5
 
 ## License
-[WTFPL](http://www.wtfpl.net/)
+[WTFPL](http://www.wtfpl.net/txt/copying)
