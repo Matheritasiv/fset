@@ -1,6 +1,6 @@
 # fset
 
-An implementation for finite set data type in scheme language, based on 5 underlying data structures:
+An implementation of finite set data type in scheme language, based on 5 underlying data structures:
 
 * red-black tree
 * AVL tree
