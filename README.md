@@ -11,3 +11,6 @@ An implementation for finite set data type in scheme language, based on 5 underl
 Each one has a terminal demonstration: `rbt-demo`, `avlt-demo`, `bt-demo`, `th-demo` and `sl-demo`.
 
 Run with Chez Scheme 9.5
+
+## License
+[WTFPL](http://www.wtfpl.net/)
